@@ -49,6 +49,7 @@ int esat::main(int argc, char **argv)
 
         if (g_settings.debug_mode)
         {
+            ImGui::ShowDemoWindow();
             DebugMenu();
         }
 

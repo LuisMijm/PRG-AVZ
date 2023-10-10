@@ -6,8 +6,8 @@ Settings g_settings;
 
 void Init()
 {
-    g_settings.window_Width = 500;
-    g_settings.window_Height = 500;
+    g_settings.window_Width = 800;
+    g_settings.window_Height = 800;
     g_settings.exit_game = false;
     g_settings.pause_game = false;
     g_settings.debug_mode = false;
