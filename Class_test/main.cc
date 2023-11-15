@@ -50,11 +50,11 @@ int main(int argc, char** argv)
 
     // printf("PCAR: %f, %d, %d", pcar->gas_, pcar->doors_, pcar->open_);
 
-    Car car3;
+    // Car car3;
 
-    car3.init();
+    // car3.init();
 
-    PrintfCar(car3);
+    // PrintfCar(car3);
 
     return 0;
 }
