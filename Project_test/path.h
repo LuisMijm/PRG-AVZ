@@ -29,6 +29,7 @@ private:
 
 public:
     Path();
+    Path(Color border, Color fill, bool solid, float* vertex);
     ~Path();
     void Draw() const;
     void AddVertex(const float* new_vertex, const int amount);

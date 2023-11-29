@@ -11,6 +11,9 @@ private:
 public:
     Transform();
     // Transform(Vec2 position, Vec2 rotation, Vec2 scale);
+    // SetPosition(Vec2 position);
+    // SetRotation(Vec2 rotation);
+    // SetScale(Vec2 sacale);
     ~Transform();
 };
 

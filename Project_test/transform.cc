@@ -19,3 +19,18 @@ Transform::Transform(/* args */)
 Transform::~Transform()
 {
 }
+
+// Transform Transform ::SetScale(Vec2 scale)
+// {
+
+// }
+
+// Transform Transform ::SetRotation(Vec2 rotation)
+// {
+
+// }
+
+// Transform Transform ::SetPosition(Vec2 position)
+// {
+
+// }

@@ -10,6 +10,7 @@ private:
 
 public:
     Texture(std::string path);
+    // Texture(/*buffer*/, Vec2 size);
     ~Texture();
 
     // Vec2 Size();

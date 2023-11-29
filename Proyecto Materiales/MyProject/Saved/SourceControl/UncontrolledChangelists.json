@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Master.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Brick.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Steel.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Copper.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Aluminum.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_Rust.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Aluminum.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/MaterialFunctions/MF_Tile.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Material_level.umap",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Levels/Material_level.umap",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Boxing.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Beta_HighLimbsGeoSG3.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Beta_Joints_MAT1.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Boxing_Skeleton.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Boxing_PhysicsAsset.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Bouncing_Fight_Idle.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Bouncing_Fight_Idle_Skeleton.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Bouncing_Fight_Idle_PhysicsAsset.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/T-Pose_PhysicsAsset.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/T-Pose.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Material_level.umap",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Animations/Bouncing_Fight_Idle_mixamo_com.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Animations/Bouncing_Fight_Idle_Take_001.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animation_test/Animations/Boxing_Take_001.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Levels/Lights_level.umap",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Levels/Lights_level_BuiltData.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Beta_HighLimbsGeoSG3.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Boxing_Skeleton.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Material_level.umap",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Beta_Joints_MAT1.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Bouncing_Fight_Idle.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Bouncing_Fight_Idle_PhysicsAsset.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Bouncing_Fight_Idle_Skeleton.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Boxing.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/Animations/Boxing_PhysicsAsset.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/NewMap.umap",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Steel.uasset",
+				"C:/Users/jimenezmu/Documents/Unreal Projects/MyProject/Content/PracticaArte/M_Metal_opper.uasset"
+			]
+		}
+	]
+}

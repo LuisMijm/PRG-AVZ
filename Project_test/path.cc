@@ -1,13 +1,33 @@
 
 #include <path.h>
 
-Path::Path(/* args */)
+Path::Path()
 {
+}
+
+Path::Path(Color border, Color fill, bool solid, float *vertex)
+{
+    borderColor_ = border;
+    fillColor_ = fill;
+    solid_ = solid;
+    vertex = vertex;
 }
 
 Path::~Path()
 {
+    free(vertex_);
 }
+
+void Path::Draw()
+{
+
+}
+
+void Path::AddVertex()
+{
+    
+}
+
 
 Color ::Color()
 {
@@ -26,4 +46,7 @@ Color ::Color(const float r, const float g, const float b, const float a)
 }
 
 Color ::~Color(){}
+
+
+
 
